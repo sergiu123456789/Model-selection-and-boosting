@@ -41,7 +41,7 @@ Example header:
 Sample code number,Clump Thickness,Uniformity of Cell Size,Uniformity of Cell Shape,Marginal Adhesion,Single Epithelial Cell Size,Bare Nuclei,Bland Chromatin,Normal Nucleoli,Mitoses,Class
 ```
 
-* `class` should be text labels (`malignant` / `benign`) (e.g. `1` malignant, `0` benign). 
+* `Class` should be text labels (`malignant` / `benign`) (e.g. `1` malignant, `0` benign). 
 
 ## 4. Step-by-step pipeline
 
