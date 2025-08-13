@@ -62,7 +62,7 @@ Report metrics:
 * Confusion matrix
 
 ## 5. Example of Python script
-```
+```python
 from catboost import CatBoostClassifier
 classifier = CatBoostClassifier()
 classifier.fit(X_train, y_train)
