@@ -27,7 +27,7 @@ You have a dataset (CSV, Excel, or similar) containing numeric features describi
 
 ```bash
 pip install pandas numpy scikit-learn catboost
-
+```
 ## 3. Dataset and expected input file format
 
 The simplest expected format is a CSV file `tumors.csv` with rows = samples and columns = feature\_1, feature\_2, ..., feature\_n, target.
